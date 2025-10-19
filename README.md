@@ -48,7 +48,7 @@ Research Area: LLM-based Intrusion Detection for Smart Building HVAC Systems
 ## 💻 SKILLS
 **Programming Languages:** Python, C, C++  
 **Frameworks & Libraries:** TensorFlow, PyTorch, LangChain, pandas, scikit-learn   
-**Domains:** LLM / RAG, System Security, Smart Building HVAC  
+**Domains:** LLM / RAG, Machine Learning, Smart Building HVAC Security  
 **Tools:** YOLO, Git, Wireshark  
 
 ---
