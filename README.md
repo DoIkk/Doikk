@@ -41,7 +41,7 @@ Research Area: LLM-based Intrusion Detection for Smart Building HVAC Systems
 ---
 
 ## 🧠 AWARDS
-- **KCC 2025** – Excellent Presentation Award (3rd Author)  
+- **KCC 2025** – Excellent Presentation Award 
 
 ---
 
