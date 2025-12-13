@@ -10,6 +10,8 @@
 Advisor Professor: Seong-Je Cho  
 Research Area: LLM-based Intrusion Detection for Smart Building HVAC Systems
 
+**SKALA AI 3rd Cohort (JAN 2025 ~ JUN 2025)**  
+AI Service Development & Data Engineering Program  
 ---
 
 ## 😆 PUBLICATIONS
@@ -38,6 +40,15 @@ Research Area: LLM-based Intrusion Detection for Smart Building HVAC Systems
 5. **LG AIMERS Challenge – Data Analysis for Infertility Patients**  
   • Performed data preprocessing, EDA, and machine learning model training for predicting pregnancy success rate.  
 
+6. **LLM-based Intrusion Detection System for Smart Building HVAC Networks**  
+  • Designed an intrusion detection system using RAG and LLM fine-tuning  
+  • Constructed HVAC-specific attack/normal behavior datasets based on MITRE ATT&CK for ICS  
+  • Implemented automatic prompt generation from network packet sequences  
+
+7. **FYEX – Generative AI-based Intelligent Learning Prompt Template System**  
+   • Designed a multi-stage LLM prompt pipeline that automatically extracts lecture PDFs and generates exams, solutions, and learning analytics
+
+
 ---
 
 ## 🧠 AWARDS
@@ -47,9 +58,9 @@ Research Area: LLM-based Intrusion Detection for Smart Building HVAC Systems
 ---
 
 ## 💻 SKILLS
-**Programming Languages:** Python, C, C++  
-**Frameworks & Libraries:** TensorFlow, PyTorch, LangChain, pandas, scikit-learn   
-**Domains:** LLM / RAG, Machine Learning, Smart Building HVAC Security  
+**Programming Languages:** Python, C, C++, Dart 
+**Frameworks & Libraries:** TensorFlow, PyTorch, LangChain, pandas, scikit-learn, Flask, Flutter  
+**Domains:** LLM / RAG, LLM Fine-tuning, Prompt Engineering, Machine Learning, Smart Building HVAC Security  
 **Tools:** YOLO, Git, Wireshark  
 
 ---
@@ -61,4 +72,4 @@ Research Area: LLM-based Intrusion Detection for Smart Building HVAC Systems
 ---
 
 ## 🔎 INTERESTS
-Machine Learning · LLM-based Intrusion Detection · Industrial Control System (ICS) Security
+Machine Learning · LLM-based Intrusion Detection · LLM-based Service Development · Industrial Control System (ICS) Security
