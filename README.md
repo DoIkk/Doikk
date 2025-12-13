@@ -12,6 +12,7 @@ Research Area: LLM-based Intrusion Detection for Smart Building HVAC Systems
 
 **SKALA AI 3rd Cohort (JAN 2025 ~ JUN 2025)**  
 AI Service Development & Data Engineering Program  
+
 ---
 
 ## 😆 PUBLICATIONS
