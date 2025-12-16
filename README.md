@@ -59,7 +59,7 @@ AI Service Development & Data Engineering Program
 ---
 
 ## 💻 SKILLS
-**Programming Languages:** Python, C, C++, Dart 
+**Programming Languages:** Python, C, C++, Dart   
 **Frameworks & Libraries:** TensorFlow, PyTorch, LangChain, pandas, scikit-learn, Flask, Flutter  
 **Domains:** LLM / RAG, LLM Fine-tuning, Prompt Engineering, Machine Learning, Smart Building HVAC Security  
 **Tools:** YOLO, Git, Wireshark  
