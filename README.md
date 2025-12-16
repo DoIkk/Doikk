@@ -68,7 +68,7 @@ AI Service Development & Data Engineering Program
 
 ## 🎓 CERTIFICATES
 - 정보처리기사  
-
+- 리눅스마스터 2급급
 
 ---
 
